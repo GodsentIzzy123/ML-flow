@@ -14,5 +14,9 @@ Futhermore, we will need to install the libraries contained in the requirements 
 
 `pip install -r requirements.txt`
 
+Having installed all needed libraries , we will need to initialise the Mlflow UI , where we can track and see the results of our ML experiments using
+
+`mlflow ui`
+
 
 Thereafter, you can run the jupyter notebook file to see the results I obtained
